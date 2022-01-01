@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x067Ed53a4F9043389Bbe46C7a9b815d4b60DAe17",
+  "SCAN_LINK": "https://polygonscan.com/token/0x067ed53a4f9043389bbe46c7a9b815d4b60dae17",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Wierd Bear",
+  "SYMBOL": "WBR",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wierd-bear",
+  "SHOW_BACKGROUND": true
+}
